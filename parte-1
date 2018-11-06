@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" type="text/css" />
+    <title>Book Drop - Read a new book every month</title>
+</head>
+
+<body>
+    <article class="container">
+
+        <!-- Callout -->
+        <row class="row">
+            <div class="col-xs-12">
+                <section class="callout">
+                    <h1>The greatest books delivered to your doorstep.</h1>
+                    <p class="lead">Sign up today to start receiving the world's most interesting books every month. <s>19.99€ </s><strong><mark>First one is free!</mark></strong></p>
+                    <p><button class="btn btn-lg btn-success">Sign Up!</button></p>
+                    <p class="text-muted"><small>You must be over 16 to sign up to our service.</small></p>
+                </section>
+            </div>
+        </row>
+        <!-- /.callout -->
+        <hr>
+
+        <!-- Quotes -->
+        <section class="quotes">
+            <row class="row">
+                <div class="col-xs-12">
+                    <h2 class="text-uppercase">Quotes:</h2>
+                </div>
+            </row>
+            <row class="row">
+                <div class="col-xs-12">
+                    <blockquote class="quote">
+                        <p>I´ve been introduced to new amazing writters that I would probably never know about.</p>
+                        <footer>Joe Bloggs on <cite class="Twitter">Twitter</cite></footer>
+                    </blockquote>
+                    <blockquote class="quote">
+                        <p>I haven't watched television for months!</p>
+                        <footer>Jane Doe on <cite class="Twitter">Twitter</cite></footer>
+                    </blockquote>
+                </div>
+            </row>
+        </section>
+        <!-- /.quotes -->
+        <hr>
+
+        <!-- Features -->
+        <section class="features">
+            <row class="row">
+                <div class="col-xs-12">
+                    <h2 class="text-uppercase">Features:</h2>
+                </div>
+            </row>
+            <row class="row">
+                <div class="col-xs-12">
+                    <div class="feature">
+                        <h3>Feature 1</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem fuga iste provident cumque. Asperiores ipsum at quasi in accusantium suscipit perspiciatis ea odio cumque id, iusto laudantium aspernatur, vitae harum!</p>
+                        <p><button class="btn btn-sm btn-default">Read More</button></p>
+                    </div>
+                    <div class="feature">
+                        <h3>Feature 2</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem fuga iste provident cumque. Asperiores ipsum at quasi in accusantium suscipit perspiciatis ea odio cumque id, iusto laudantium aspernatur, vitae harum!</p>
+                        <p><button class="btn btn-sm btn-default">Read More</button></p>
+                    </div>
+                    <div class="feature">
+                        <h3>Feature 3</h3>
+                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Autem fuga iste provident cumque. Asperiores ipsum at quasi in accusantium suscipit perspiciatis ea odio cumque id, iusto laudantium aspernatur, vitae harum!</p>
+                        <p><button class="btn btn-sm btn-default">Read More</button></p>
+                    </div>
+                </div>
+            </row>
+        </section>
+        <!-- /.features -->
+        <hr>
+
+        <!-- Monthly Favorites -->
+        <section class="monthly-favorites">
+            <row class="row">
+                <div class="col-xs-12">
+                    <h2 class="text-uppercase">Monthly Favorites:</h2>
+                </div>
+            </row>
+            <row class="row">
+                <div class="col-xs-12">
+                    <table class="table table-striped">
+                        <thead>
+                            <tr>
+                                <th>Name</th>
+                                <th>Origin</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            <tr>
+                                <td>Top!! 1</td>
+                                <td>Brazil</td>
+                            </tr>
+                            <tr>
+                                <td>Livro 2</td>
+                                <td>USA</td>
+                            </tr>
+                            <tr>
+                                <td>Book 3</td>
+                                <td>Spain</td>
+                            </tr>
+                            <tr>
+                                <td>Libro 4</td>
+                                <td>UK</td>
+                            </tr>
+                            <tr>
+                                <td>Legal 5</td>
+                                <td>Brazil</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </row>
+        </section>
+        <!-- /.monthly favorites -->
+    </article>
+</body>
+
+</html>
